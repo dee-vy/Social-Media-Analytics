@@ -14,9 +14,9 @@ def is_english(s):
         return True
 
 
-name = ['All_combined_irish', 'All_combined_irish_stopwords_removed']
+name = ['All_combined_Irish', 'All_combined_Irish_stopwords_removed']
 for n in name:
-    df = pd.read_csv("csv_files/irish/" + n + ".csv")
+    df = pd.read_csv("csv_files/Irish/" + n + ".csv")
     num = 0
 
     for index, row in df.iterrows():

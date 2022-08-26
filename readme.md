@@ -3,11 +3,11 @@ Data:
 <li>Raw JSON data:
     <br /> json_to_csv -> json_files</li>
 <li>A combined CSV of all the Irish users' data is stored at:
-    <br /> json_to_csv -> csv_files  -> irish -> All_combined_irish.csv
-    <br /> json_to_csv -> csv_files  -> irish -> All_combined_irish_stopwords_removed.csv</li>
+    <br /> json_to_csv -> csv_files  -> Irish -> All_combined_Irish.csv
+    <br /> json_to_csv -> csv_files  -> Irish -> All_combined_Irish_stopwords_removed.csv</li>
 <li>After pre-processing and splitting each entry of the CSVs into separate documents, the folders are:
-<br /> json_to_csv -> All_combined_irish_docs
-<br /> json_to_csv -> All_combined_irish_stopwords_removed_docs
+<br /> json_to_csv -> All_combined_Irish_docs
+<br /> json_to_csv -> All_combined_Irish_stopwords_removed_docs
 </li>
 </ul>
 
@@ -17,12 +17,12 @@ Structure of the code:
 <li> Using the Snscrape tool, I have fetched the data in JSON format at the location: 
      <br /> json_to_csv/json_files </li>
 <li> "main.py" to take the Irish user tweets and convert those into CSV. Combined CSV stored at:
-      <br /> json_to_csv/csv_files/irish/All_combined_irish.csv </li>
+      <br /> json_to_csv/csv_files/Irish/All_combined_Irish.csv </li>
 <li> "nltk_stopwords_removal.py" to remove stop words. Combined CSV stored at: 
-      <br /> json_to_csv/csv_files/irish/All_combined_irish_stopwords_removed.csv </li>
+      <br /> json_to_csv/csv_files/Irish/All_combined_Irish_stopwords_removed.csv </li>
 <li> 'Csv_to_document.py' then pre-processes from the combined CSVs and stores each entry of the data (tweets) into a separate document stored at:
-      <br /> json_to_csv/irish/All_combined_irish_docs
-      <br /> json_to_csv/irish/All_combined_irish_stopwords_removed_docs</li>
+      <br /> json_to_csv/Irish/All_combined_Irish_docs
+      <br /> json_to_csv/Irish/All_combined_Irish_stopwords_removed_docs</li>
 <li> 'textmatrix' and semantic space created using 'LSA.R' </li>
 <li> Tokens are split up into five topics in "LSA.R" and stored in:
      <br /> json_to_csv/Matrix_Data/tokenFile2.txt</li>

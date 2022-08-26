@@ -36,7 +36,7 @@ for x in json_files:
         df = df['content']
 
         # Store Irish tweets in a separate folder as a CSV.
-        csv_file = "csv_files/irish/" + x.removesuffix(".json") + ".csv"
+        csv_file = "csv_files/Irish/" + x.removesuffix(".json") + ".csv"
         df.to_csv(csv_file)
         if i == 0:
             df_all = df
@@ -46,6 +46,6 @@ for x in json_files:
         csv_files.append(csv_file)
 
 # Combine all tweets in a single CSV stored in the same folder.
-df_all.to_csv("csv_files/irish/All_combined_irish.csv",
+df_all.to_csv("csv_files/Irish/All_combined_Irish.csv",
               index=False)  # earlier: All_combined_xxx.csv but loc != Ireland.
 print(csv_files)

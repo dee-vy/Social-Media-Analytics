@@ -4,7 +4,7 @@ library(LSAfun)
 # remove.packages("rgl")
 install.packages("rgl", dependencies = TRUE)
 
-setwd("/Users/deekshavyas/Documents/Dissertation/sem2/CodeTesting/json_to_csv/All_combined_irish_docs")
+setwd("/Users/deekshavyas/Documents/Dissertation/sem2/CodeTesting/json_to_csv/All_combined_Irish_docs")
 install.packages("lsa")
 library("lsa")
 z = textmatrix("./")

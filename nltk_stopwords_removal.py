@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import numpy as np
 
-df = pd.read_csv("json_to_csv/csv_files/irish/All_combined_irish.csv").dropna()
+df = pd.read_csv("json_to_csv/csv_files/Irish/All_combined_Irish.csv").dropna()
 print(df)
 print(df.columns)
 import nltk
@@ -19,7 +19,7 @@ df['content'] = df['content'] \
     .apply(lambda x: ' '.join([word for word in x.split() if (word in words) and (word not in stop)]))
 # print("1\n", df)
 
-df['content'].to_csv("json_to_csv/csv_files/irish/All_combined_irish_stopwords_removed.csv", index=False)
+df['content'].to_csv("json_to_csv/csv_files/Irish/All_combined_Irish_stopwords_removed.csv", index=False)
 
 # ...................................
 # Extra..............................

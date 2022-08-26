@@ -164,133 +164,133 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Active_Ageing_programme_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Active_Ageing_programme_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Ageaction_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Ageaction_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/All_combined_irish.csv">
+        <entry key="/json_to_csv/csv_files/Irish/All_combined_Irish.csv">
           <value>
             <Attribute>
               <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/All_combined_irish_stopwords_removed.csv">
+        <entry key="/json_to_csv/csv_files/Irish/All_combined_Irish_stopwords_removed.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Circle50_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Circle50_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Coastline_River_Walks_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Coastline_River_Walks_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Darndale_Belcamp_Recreation_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Darndale_Belcamp_Recreation_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Gallery_Tour_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Gallery_Tour_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/HiDigital_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/HiDigital_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Ireland_Active_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Ireland_Active_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/LifelongLearning_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/LifelongLearning_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Lunchtime_walks_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Lunchtime_walks_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/SeniorLine_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/SeniorLine_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/Shades_of_50_plus_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/Shades_of_50_plus_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/active_ageing.csv">
+        <entry key="/json_to_csv/csv_files/Irish/active_ageing.csv">
           <value>
             <Attribute>
               <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/aged_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/aged_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/saturday_bingo_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/saturday_bingo_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/whats_on_stage_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/whats_on_stage_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/json_to_csv/csv_files/irish/women_50_+_tweets.csv">
+        <entry key="/json_to_csv/csv_files/Irish/women_50_+_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
