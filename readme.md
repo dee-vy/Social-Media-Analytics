@@ -1,13 +1,13 @@
 Data:
 <ul>
 <li>Raw JSON data:
-    <br /> CodeTesting -> json_to_csv -> json_files</li>
+    <br /> json_to_csv -> json_files</li>
 <li>A combined CSV of all the Irish users' data is stored at:
-    <br /> CodeTesting -> json_to_csv -> csv_files  -> irish -> All_combined_irish.csv
-    <br /> CodeTesting -> json_to_csv -> csv_files  -> irish -> All_combined_irish_stopwords_removed.csv</li>
+    <br /> json_to_csv -> csv_files  -> irish -> All_combined_irish.csv
+    <br /> json_to_csv -> csv_files  -> irish -> All_combined_irish_stopwords_removed.csv</li>
 <li>After pre-processing and splitting each entry of the CSVs into separate documents, the folders are:
-<br /> CodeTesting -> json_to_csv -> All_combined_irish_docs
-<br /> CodeTesting -> json_to_csv -> All_combined_irish_stopwords_removed_docs
+<br /> json_to_csv -> All_combined_irish_docs
+<br /> json_to_csv -> All_combined_irish_stopwords_removed_docs
 </li>
 </ul>
 
